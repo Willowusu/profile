@@ -1,5 +1,5 @@
 <h2> Hi, I'm Willow! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/xTiTntsBQI0Zmu9YoE/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif" width="230">
 <p><em>Software Developer at <a href="https://junipayments.com">Juni Ghana Limited</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Writer of blogs on <a href="https://thetrojanblog.medium.com">Medium</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
