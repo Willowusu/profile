@@ -12,8 +12,8 @@
 
 ```javascript
 const willow = {
-  code: [Javascript, Python, PHP, C++, SQL, HTML, CSS],
-  tools: [Nodejs, React, Jest, Docker],
+  code: [Javascript, Dart, C++, SQL, HTML, CSS],
+  tools: [Nodejs, Flutter, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   other: {
                         writer: "Monday Musings",
