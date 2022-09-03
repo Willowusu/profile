@@ -20,7 +20,7 @@ const willow = {
                         type: "Newsletter",
                         period: "weekly"
                       },
- challenge: "I am building a services web app with nodejs"
+ challenge: "I am building a hotel booking service with nodejs"
 }
 ```
 
