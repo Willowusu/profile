@@ -20,7 +20,10 @@ const willow = {
                         type: "Newsletter",
                         period: "weekly"
                       },
- challenge: ["I am building a hotel booking service with nodejs", "I am learning flutter and plan to build 15-20 projects on the way!"]
+ challenge: {
+              1: "I am building a hotel booking service with nodejs",
+              2: "I am learning flutter and plan to build 15-20 projects on the way!"
+             }
 }
 ```
 
