@@ -13,10 +13,9 @@
 ```javascript
 const willow = {
   skills: { expert: [Javascript, Python, HTML, CSS, MongoDB, Nodejs, Handlebars, EJS, APIs, Git],
-          mid: [C++, SQL, React],
-          beginner: [Dart, Flutter, Cloud]
+          mid: [C++, SQL, React, Docker],
+          beginner: [Dart, Flutter, Cloud, Jest]
          },
-  tools: [Nodejs, Flutter, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   other: {
                         writer: ["Monday Musings", "Medium"],
