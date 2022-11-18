@@ -12,12 +12,15 @@
 
 ```javascript
 const willow = {
-  code: [Javascript, Dart, C++, SQL, HTML, CSS],
+  code: { expert: [Javascript, Python, HTML, CSS, MongoDB, Nodejs, Handlebars, EJS, APIs]
+          mid: [C++, SQL, React],
+          beginner: [Dart, Flutter, Cloud]
+         },
   tools: [Nodejs, Flutter, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   other: {
-                        writer: "Monday Musings",
-                        type: "Newsletter",
+                        writer: ["Monday Musings", "Medium"],
+                        type: ["Newsletter", "Article"],
                         period: "weekly"
                       },
  challenge: {
