@@ -12,7 +12,7 @@
 
 ```javascript
 const willow = {
-  code: { expert: [Javascript, Python, HTML, CSS, MongoDB, Nodejs, Handlebars, EJS, APIs]
+  skills: { expert: [Javascript, Python, HTML, CSS, MongoDB, Nodejs, Handlebars, EJS, APIs, Git],
           mid: [C++, SQL, React],
           beginner: [Dart, Flutter, Cloud]
          },
